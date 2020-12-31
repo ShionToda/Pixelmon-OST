@@ -1,0 +1,79 @@
+{
+	"music.game": {
+		"category": "music",
+		"sounds": [
+		{
+			"name": "music/pixelmon/a_simple_moment_by_the_sea",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/across_the_desert",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/clear_skies",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/dawn",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/distant_shores",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/dusk",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/from_peak_to_peak",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/journey_to_the_sky",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/midnight",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/moonlight",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/nightfall",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/on_the_wings_of_adventure",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/pixelmon_waltz",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/the_enchanted_forest",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/the_frozen_land",
+			"stream": true
+		},
+		{
+			"name": "music/pixelmon/the_great_plains",
+			"stream": true
+		}		]
+	},
+	"music.menu": {
+		"category": "music",
+		"replace": true,
+		"sounds": [
+		{
+			"name": "music/menu/launcher_medley",
+			"stream": true
+		}]
+	}
+}
